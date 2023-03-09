@@ -7,15 +7,15 @@ Java exercises are often used by beginners who are just starting to learn Java p
 
 # Exercise List
 
-List of all exercises with brief descriptions and file names. You can organize them in sub-sections if there are many exercises.
 
     Exercise 1: Arrays - This exercise covers the basics of Arrays in Java.
     Exercise 2: Loops (Loops.java) - This exercise covers the use of loops in Java.
-    ...
+   ..................................................................................
+   
+   
+   
+   
+   
+   
     
-    # Author
-    SHJA AZIMI
-    
-    # Customization 
-    Feel free to customize this template to fit your project's needs. A good README provides clear and concise information to potential users and contributors, so make sure to include all the necessary details.
-    
+
