@@ -10,6 +10,9 @@ Java exercises are often used by beginners who are just starting to learn Java p
 
     Exercise 1: Arrays - This exercise covers the basics of Arrays in Java.
     Exercise 2: Loops (Loops.java) - This exercise covers the use of loops in Java.
+    Exercise 3: Methos (Method.java) - This exercise covers the use of Methods in Java.
+    Exercise 4: 2d Arrays - This Exercies covers the use of 2d Arrays in java
+   
    ..................................................................................
    
    
